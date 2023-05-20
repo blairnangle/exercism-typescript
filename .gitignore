@@ -1,0 +1,11 @@
+# IntelliJ
+.idea
+
+# Compiled JavaScript
+dist
+
+# Libraries
+node_modules
+
+# Personal pre-configured Git commit message
+.gitmessage
